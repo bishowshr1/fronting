@@ -1,4 +1,4 @@
 
 
 
-export const baseUrl = 'http://192.168.0.120:5000';
+export const baseUrl = 'https://back-gtuf.onrender.com';
